@@ -13,7 +13,7 @@ Keyboard Controls:<br>
 <b>Player 2 Left Character:</b><br>
 <b>Movement:</b> Up Left Down Right (arrows)<br>
 <b>Ability:</b> NUMPAD[0]<br>
-<b>Player 1 Right Character:</b><br>
+<b>Player 2 Right Character:</b><br>
 <b>Movement:</b> NUMPAD[8] NUMPAD[4] NUMPAD[5] NUMPAD[6] (up, left, down, right)<br>
 <b>Ability:</b> NUMPAD[7]<br>
 
